@@ -2,3 +2,6 @@
 Convert files to/from Base64 using Alfred
 
 To install: simply download the workflow from Releases.
+
+Icon attribution:
+restart by Alice Design from the Noun Project
