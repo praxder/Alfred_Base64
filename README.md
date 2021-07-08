@@ -19,7 +19,7 @@ Convert files to/from Base64 using an Alfred file action.
 2. Active the Alfred file actions menu
 3. Select "Encode Base64" or "Decode Base64"
 
-![Encode](Screenshots/Encode.png)
+![Encode](Screenshots/Encode.png | Width=200)
 ![Decode](Screenshots/Decode.png)
 
 ## License
